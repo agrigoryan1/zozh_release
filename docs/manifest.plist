@@ -11,7 +11,7 @@
           <key>kind</key>
           <string>software-package</string>
           <key>url</key>
-          <string>REPLACE_WITH_IPA_URL</string>
+          <string>https://github.com/agrigoryan1/zozh_release/releases/download/1.0.0/ZOZH.ipa</string>
         </dict>
       </array>
       <key>metadata</key>
